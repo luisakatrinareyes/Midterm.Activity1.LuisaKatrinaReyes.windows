@@ -14,6 +14,7 @@
         <TextBox x:Name="TextBox_PCT" HorizontalAlignment="Left" Height="42" Margin="296,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="442" FontSize="18" FontStyle="Italic" Opacity="0.5"/>
         <Label x:Name="lblIntroduction" Content="This Program decides you Grade Points According&#xD;&#xA;to your percentage grade." HorizontalAlignment="Left" Margin="36,38,0,0" VerticalAlignment="Top" Height="76" Width="672" FontFamily="Verdana" FontSize="24"/>
         <Label x:Name="lblPercentageGrade" Content="Percentage Grade:" HorizontalAlignment="Left" Height="42" Margin="36,140,0,0" VerticalAlignment="Top" Width="230" FontSize="30" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <Label Content="And your GPA is:" HorizontalAlignment="Left" Height="51" Margin="50,280,0,0" VerticalAlignment="Top" Width="216" FontSize="28" FontFamily="Tw Cen MT Condensed Extra "/>
 
     </Grid>
 </Window>
